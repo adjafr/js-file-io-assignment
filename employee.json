@@ -1,5 +1,26 @@
+
+[
 {
   "name": "peter",
   "title": "grunt",
   "salary": 5
 }
+,
+{
+  "name": "aj",
+  "title": "grunt",
+  "salary": 6
+}
+,
+{
+  "name": "john",
+  "title": "grunt",
+  "salary": 7
+}
+,
+{
+  "name": "david",
+  "title": "grunt",
+  "salary": 8
+}
+]
